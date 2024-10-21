@@ -45,12 +45,3 @@
 * More details on the project can be found in the report which is stored in this repository
 
 * ARCADE directory contains the code of original paper's code
-## Area of Contribution
-    1. Pratikkumar Dalsukhbhai Korat
-        > Training and Evaluation of Model, Literature review, Technical Documentation
-
-    2. Akhilandeswari Battineni
-        > Documentation, Literature review, Report Writing.
-
-    3. Alekhya Vaida
-        > Documentation, Website Development, Literature review.
